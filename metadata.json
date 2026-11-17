@@ -1,0 +1,6 @@
+{
+  "name": "CartoGrille — Grilles d'évaluation géographique",
+  "description": "Création, personnalisation et exportation PDF de grilles d'évaluation pour croquis cartographiques et cartes de synthèse en géographie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
